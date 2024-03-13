@@ -1,2 +1,2 @@
-# CSS_Assignment_1
-Css Assignment 1
+# CSS_Assignment_2
+Css Assignment 2
